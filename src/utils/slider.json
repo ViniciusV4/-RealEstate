@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Residencial Palácio dos Jardins",
+    "price": "47,043",
+    "detail": "Rua Jardim da Cidade, Cakung. Pulo Gadung, São Paulo - SP",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Condomínio Serenata Real",
+    "price": "66,353",
+    "detail": "Avenida Flores da Primavera, Cakung. Pulo Gadung, Rio de Janeiro - RJ",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Vila Majestosa Mansões",
+    "price": "35,853",
+    "detail": "Travessa Verdejante, Cakung. Pulo Gadung, Belo Horizonte - MG",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Bairro Nobre da Elegância",
+    "price": "47,043",
+    "detail": "Alameda dos Ipês, Cakung. Pulo Gadung, Brasília - DF",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Praia dos Barões Residences",
+    "price": "66,353",
+    "detail": "Praça das Palmeiras, Cakung. Pulo Gadung, Salvador - BA",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Conjunto Altos Horizontes Elite",
+    "price": "35,853",
+    "detail": "Estrada do Bosque, Cakung. Pulo Gadung, Porto Alegre - RS",
+    "image": "./r3.png"
+  }
+]
